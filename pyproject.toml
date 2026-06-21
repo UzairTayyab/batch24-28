@@ -1,0 +1,6 @@
+[project]
+name = "batch24-28"
+version = "1.1.4"
+description = "A simple Python library with art and an advanced calculator"
+readme = "README.md"
+requires-python = ">=3.7"
